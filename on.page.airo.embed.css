@@ -58,6 +58,10 @@
        min-width: 5rem;
        padding: .4rem .8rem;
    }
+
+.bpw-powered {
+    display: none;
+}
    
    .bpw-button {
        align-items: flex-start;
