@@ -1,0 +1,102 @@
+
+
+.bpw-header-container {
+
+    display: none;
+
+    visibility: hidden;
+   }
+
+
+   .bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #ef6820;
+}
+   
+   .bpw-from-user .bpw-chat-bubble-content {
+   color: #fcfcfd;
+   border-radius: 15px;
+
+   }
+   
+   
+   .bpw-chat-bubble-content {
+       border-radius: 15px;
+       font-size: 1rem;
+       padding: .5rem .75rem;
+   }
+   
+   .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+       background-color: #e5e7eb;
+       color: #111927;
+   }
+   
+   
+   
+   
+   .bpw-chat-container {
+       background-color: transparent;
+       border: 0px solid transparent;
+       border-radius: 8px;
+       color: #111927;
+       overflow: hidden;
+   }
+   
+   .bpw-keyboard-single-choice {
+       background-color: transparent;
+       border-top: 0px solid transparent;
+       padding: 15px 20px;
+       text-align: left;
+   }
+   
+   .bpw-button:hover {
+       background-color: #fef6ee;
+   }
+   
+   .bpw-button, .bpw-button-alt {
+       background-color: #f9fafb;
+       font-size: 1rem;
+       min-width: 5rem;
+       padding: .4rem .8rem;
+   }
+   
+   .bpw-button {
+       align-items: flex-start;
+       border: 1px solid #111927;
+       border-radius: 15px;
+       cursor: pointer;
+       margin: 3px 2px;
+       min-height: 40px;
+       overflow: visible;
+       text-align: center;
+       text-transform: none;
+       color: #111927;
+   }
+
+   .tooltip_0aab4d .tooltipInner {
+    background: #ef6820;
+    color: #fcfcfd;
+
+}
+
+.bpw-send-button {
+
+    background: transparent;
+
+}
+
+.bpw-send-button:hover, .bpw-send-button:focus {
+    background: #e5e7eb;
+    
+}
+
+
+.tooltip_0aab4d.top .tooltipArrow {
+    border-top-color: #ef6820;
+
+}
+
+.bpw-composer {
+    background: #F9FAFB;
+    border: 0.2rem solid #111927;
+    border-radius: 0.5rem;
+}
