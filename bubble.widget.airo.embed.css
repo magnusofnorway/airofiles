@@ -1,0 +1,136 @@
+/*blob icon*/
+.bpw-widget-btn {
+    background-image: url("https://uploads-ssl.webflow.com/64ad1ed3b879772c574d88d3/64b67c1ab595f060192da36f_airo.icon.256x256.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    background-size: contain;
+    width: 64px;
+    height: 64px;
+ 
+  }
+  .bpw-widget-btn>* {
+    display: none;
+  }
+  .bpw-floating-button {
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.4);
+    /* border: 1px solid #3C4858; */
+  }
+
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #ef6820;
+}
+   
+   .bpw-from-user .bpw-chat-bubble-content {
+   color: #fcfcfd;
+   border-radius: 15px;
+
+   }
+   
+   
+   .bpw-chat-bubble-content {
+       border-radius: 15px;
+       font-size: 1rem;
+       padding: .5rem .75rem;
+   }
+   
+   .bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+       background-color: #e5e7eb;
+       color: #111927;
+   }
+   
+   
+   
+   
+   .bpw-chat-container {
+    background-color: #fcfcfd;
+    border: 0.3rem solid #111927;
+    border-radius: 8px;
+    color: #fcfcfd;
+    overflow: hidden;
+}
+   
+   .bpw-keyboard-single-choice {
+       background-color: #fcfcfd;
+       border-top: 0px solid transparent;
+       padding: 15px 20px;
+       text-align: left;
+   }
+   
+   .bpw-button:hover {
+       background-color: #fef6ee;
+   }
+   
+   .bpw-button, .bpw-button-alt {
+       background-color: #f9fafb;
+       font-size: 1rem;
+       min-width: 5rem;
+       padding: .4rem .8rem;
+   }
+   
+   .bpw-button {
+       align-items: flex-start;
+       border: 1px solid #111927;
+       border-radius: 15px;
+       cursor: pointer;
+       margin: 3px 2px;
+       min-height: 40px;
+       overflow: visible;
+       text-align: center;
+       text-transform: none;
+       color: #111927;
+   }
+
+   .tooltip_0aab4d .tooltipInner {
+    background: #ef6820;
+    color: #fcfcfd;
+
+}
+
+.bpw-send-button {
+
+    background: transparent;
+
+}
+
+.bpw-send-button:hover, .bpw-send-button:focus {
+    background: #e5e7eb;
+    
+}
+
+
+.tooltip_0aab4d.top .tooltipArrow {
+    border-top-color: #ef6820;
+
+}
+
+.bpw-composer {
+    background: #F9FAFB;
+    border-radius: 0.5rem;
+}
+
+
+
+.bpw-floating-button .bpw-floating-button-unread {
+    background-color: #ef6820;
+
+}
+
+
+
+
+  .bpw-header-subtitle {
+    display: none;
+
+}
+
+.bpw-header-icon, .bpw-header-icon svg, .bpw-header-icon svg path {
+    fill: #fcfcfd;
+    transition: fill .3s;
+}
+
+.bpw-header-container {
+
+    background-color: #111927;
+}
